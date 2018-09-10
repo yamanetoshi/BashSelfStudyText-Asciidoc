@@ -1,0 +1,7 @@
+Gemfile.lock
+vendor/
+*~
+*.html
+*.pdf
+.bundle/
+
